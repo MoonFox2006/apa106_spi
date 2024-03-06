@@ -1,0 +1,1 @@
+idf_component_register(SRCS "APA106.c" "main.c" INCLUDE_DIRS ".")
